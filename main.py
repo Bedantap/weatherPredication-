@@ -9,7 +9,7 @@ def main():
     # Train the model
     model = train_model(data)
     
-    # Make predictions
+
     predictions = make_predictions(model, data)
     
     # Output predictions
